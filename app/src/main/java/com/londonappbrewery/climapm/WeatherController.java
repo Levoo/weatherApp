@@ -99,7 +99,7 @@ public class WeatherController extends AppCompatActivity {
                 params.put("lat", latitude);
                 params.put("lon", longitude);
                 params.put("appid", APP_ID);
-
+                //hello
                 letsDoSomeNetworking(params);
             }
 
